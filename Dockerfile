@@ -1,4 +1,4 @@
-FROM php:7.4.3-apache
+FROM php:7.4.12-apache
 
 EXPOSE 80/tcp
 
